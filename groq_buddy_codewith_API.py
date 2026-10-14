@@ -6,7 +6,8 @@ import sys
 import urllib.error
 import urllib.request
 
-GROQ_API_KEY = "Put Your key here to test"
+
+GROQ_API_KEY = "YOUR_GROQ_API_KEY_HERE"
 
 BASE_URL = "https://api.groq.com/openai/v1"
 
