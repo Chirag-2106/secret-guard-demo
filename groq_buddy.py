@@ -7,6 +7,7 @@ import sys
 import urllib.error
 import urllib.request
 
+
 BASE_URL = "https://api.groq.com/openai/v1"
 
 # Known chat models, in order of preference (pinned, not guessed)
